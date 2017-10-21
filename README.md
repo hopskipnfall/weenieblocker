@@ -1,4 +1,3 @@
-# weenieblocker
-Chrome Extension to remove whiny fb posts about matchups and tier lists.
+# Weenie Blocker Chrome Extension
 
 It may stop working tomorrow. Deal with it.
